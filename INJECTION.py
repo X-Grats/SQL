@@ -1,4 +1,3 @@
-11.21 9:32 PM
 SQL INJECTION
 #!/usr/bin/env python
 
